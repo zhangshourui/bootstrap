@@ -1,0 +1,6 @@
+[
+  {
+    "outputFile": "dist/css/bootstrap.css",
+    "inputFile": "scss/bootstrap.scss"
+  }
+]
